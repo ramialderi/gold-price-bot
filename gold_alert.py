@@ -1,4 +1,4 @@
-```python
+
 #!/usr/bin/env python3
 """
 gold_alert.py
@@ -682,4 +682,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
